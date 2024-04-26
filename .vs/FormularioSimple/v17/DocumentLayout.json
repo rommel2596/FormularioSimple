@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\romme\\source\\repos\\FormularioSimple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA2985D-671C-4E20-82D8-9B3D07293EDB}|FormularioSimple\\FormularioSimple.csproj|c:\\users\\romme\\source\\repos\\formulariosimple\\formulariosimple\\frmdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BA2985D-671C-4E20-82D8-9B3D07293EDB}|FormularioSimple\\FormularioSimple.csproj|solutionrelative:formulariosimple\\frmdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA2985D-671C-4E20-82D8-9B3D07293EDB}|FormularioSimple\\FormularioSimple.csproj|C:\\Users\\romme\\source\\repos\\FormularioSimple\\formulariosimple\\frmdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA2985D-671C-4E20-82D8-9B3D07293EDB}|FormularioSimple\\FormularioSimple.csproj|solutionrelative:formulariosimple\\frmdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA2985D-671C-4E20-82D8-9B3D07293EDB}|FormularioSimple\\FormularioSimple.csproj|C:\\Users\\romme\\source\\repos\\FormularioSimple\\formulariosimple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA2985D-671C-4E20-82D8-9B3D07293EDB}|FormularioSimple\\FormularioSimple.csproj|solutionrelative:formulariosimple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA2985D-671C-4E20-82D8-9B3D07293EDB}|FormularioSimple\\FormularioSimple.csproj|C:\\Users\\romme\\source\\repos\\FormularioSimple\\formulariosimple\\dataaccess\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA2985D-671C-4E20-82D8-9B3D07293EDB}|FormularioSimple\\FormularioSimple.csproj|solutionrelative:formulariosimple\\dataaccess\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA2985D-671C-4E20-82D8-9B3D07293EDB}|FormularioSimple\\FormularioSimple.csproj|C:\\Users\\romme\\source\\repos\\FormularioSimple\\formulariosimple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BA2985D-671C-4E20-82D8-9B3D07293EDB}|FormularioSimple\\FormularioSimple.csproj|solutionrelative:formulariosimple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA2985D-671C-4E20-82D8-9B3D07293EDB}|FormularioSimple\\FormularioSimple.csproj|C:\\Users\\romme\\source\\repos\\FormularioSimple\\formulariosimple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA2985D-671C-4E20-82D8-9B3D07293EDB}|FormularioSimple\\FormularioSimple.csproj|solutionrelative:formulariosimple\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\romme\\source\\repos\\FormularioSimple\\FormularioSimple\\DataAccess\\Conexion.cs",
+              "RelativeDocumentMoniker": "FormularioSimple\\DataAccess\\Conexion.cs",
+              "ToolTip": "C:\\Users\\romme\\source\\repos\\FormularioSimple\\FormularioSimple\\DataAccess\\Conexion.cs",
+              "RelativeToolTip": "FormularioSimple\\DataAccess\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:29:11.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmDatos.cs",
+              "DocumentMoniker": "C:\\Users\\romme\\source\\repos\\FormularioSimple\\FormularioSimple\\FrmDatos.cs",
+              "RelativeDocumentMoniker": "FormularioSimple\\FrmDatos.cs",
+              "ToolTip": "C:\\Users\\romme\\source\\repos\\FormularioSimple\\FormularioSimple\\FrmDatos.cs",
+              "RelativeToolTip": "FormularioSimple\\FrmDatos.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwCQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:18:34.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmDatos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\romme\\source\\repos\\FormularioSimple\\FormularioSimple\\FrmDatos.cs",
+              "RelativeDocumentMoniker": "FormularioSimple\\FrmDatos.cs",
+              "ToolTip": "C:\\Users\\romme\\source\\repos\\FormularioSimple\\FormularioSimple\\FrmDatos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormularioSimple\\FrmDatos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:15:51.792Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\romme\\source\\repos\\FormularioSimple\\FormularioSimple\\Form1.cs",
+              "RelativeDocumentMoniker": "FormularioSimple\\Form1.cs",
+              "ToolTip": "C:\\Users\\romme\\source\\repos\\FormularioSimple\\FormularioSimple\\Form1.cs",
+              "RelativeToolTip": "FormularioSimple\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:43:34.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\romme\\source\\repos\\FormularioSimple\\FormularioSimple\\Program.cs",
+              "RelativeDocumentMoniker": "FormularioSimple\\Program.cs",
+              "ToolTip": "C:\\Users\\romme\\source\\repos\\FormularioSimple\\FormularioSimple\\Program.cs",
+              "RelativeToolTip": "FormularioSimple\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:33:06.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\romme\\source\\repos\\FormularioSimple\\FormularioSimple\\Form1.cs",
+              "RelativeDocumentMoniker": "FormularioSimple\\Form1.cs",
+              "ToolTip": "C:\\Users\\romme\\source\\repos\\FormularioSimple\\FormularioSimple\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormularioSimple\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:27:06.934Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
